@@ -1,0 +1,7 @@
+C:\Users\Nikhil\Desktop\CDAC goals\.NET Module\MyProperties\bin\Debug\MyProperties.exe.config
+C:\Users\Nikhil\Desktop\CDAC goals\.NET Module\MyProperties\bin\Debug\MyProperties.exe
+C:\Users\Nikhil\Desktop\CDAC goals\.NET Module\MyProperties\bin\Debug\MyProperties.pdb
+C:\Users\Nikhil\Desktop\CDAC goals\.NET Module\MyProperties\obj\Debug\MyProperties.csproj.AssemblyReference.cache
+C:\Users\Nikhil\Desktop\CDAC goals\.NET Module\MyProperties\obj\Debug\MyProperties.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil\Desktop\CDAC goals\.NET Module\MyProperties\obj\Debug\MyProperties.exe
+C:\Users\Nikhil\Desktop\CDAC goals\.NET Module\MyProperties\obj\Debug\MyProperties.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nikhil\Desktop\CDAC goals\.NET Module\MyOOPDependencyInj\bin\Debug\MyOOPDependencyInj.exe.config
+C:\Users\Nikhil\Desktop\CDAC goals\.NET Module\MyOOPDependencyInj\bin\Debug\MyOOPDependencyInj.exe
+C:\Users\Nikhil\Desktop\CDAC goals\.NET Module\MyOOPDependencyInj\bin\Debug\MyOOPDependencyInj.pdb
+C:\Users\Nikhil\Desktop\CDAC goals\.NET Module\MyOOPDependencyInj\obj\Debug\MyOOPDependencyInj.csproj.AssemblyReference.cache
+C:\Users\Nikhil\Desktop\CDAC goals\.NET Module\MyOOPDependencyInj\obj\Debug\MyOOPDependencyInj.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil\Desktop\CDAC goals\.NET Module\MyOOPDependencyInj\obj\Debug\MyOOPDependencyInj.exe
+C:\Users\Nikhil\Desktop\CDAC goals\.NET Module\MyOOPDependencyInj\obj\Debug\MyOOPDependencyInj.pdb
