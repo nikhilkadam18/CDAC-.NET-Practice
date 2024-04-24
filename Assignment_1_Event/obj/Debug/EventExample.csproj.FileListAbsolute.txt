@@ -1,0 +1,7 @@
+C:\Users\IET\source\repos\EventExample\bin\Debug\EventExample.exe.config
+C:\Users\IET\source\repos\EventExample\bin\Debug\EventExample.exe
+C:\Users\IET\source\repos\EventExample\bin\Debug\EventExample.pdb
+C:\Users\IET\source\repos\EventExample\obj\Debug\EventExample.csproj.AssemblyReference.cache
+C:\Users\IET\source\repos\EventExample\obj\Debug\EventExample.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\EventExample\obj\Debug\EventExample.exe
+C:\Users\IET\source\repos\EventExample\obj\Debug\EventExample.pdb

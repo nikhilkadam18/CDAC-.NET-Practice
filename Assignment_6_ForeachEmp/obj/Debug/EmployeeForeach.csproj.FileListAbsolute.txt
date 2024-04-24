@@ -1,0 +1,7 @@
+C:\Users\IET\Desktop\DOT_NET\EmployeeForeach\bin\Debug\EmployeeForeach.exe.config
+C:\Users\IET\Desktop\DOT_NET\EmployeeForeach\bin\Debug\EmployeeForeach.exe
+C:\Users\IET\Desktop\DOT_NET\EmployeeForeach\bin\Debug\EmployeeForeach.pdb
+C:\Users\IET\Desktop\DOT_NET\EmployeeForeach\obj\Debug\EmployeeForeach.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\DOT_NET\EmployeeForeach\obj\Debug\EmployeeForeach.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DOT_NET\EmployeeForeach\obj\Debug\EmployeeForeach.exe
+C:\Users\IET\Desktop\DOT_NET\EmployeeForeach\obj\Debug\EmployeeForeach.pdb

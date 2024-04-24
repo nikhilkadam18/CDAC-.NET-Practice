@@ -1,0 +1,7 @@
+C:\Users\IET\Desktop\DOT_NET\MySerialD\bin\Debug\MySerialD.exe.config
+C:\Users\IET\Desktop\DOT_NET\MySerialD\bin\Debug\MySerialD.exe
+C:\Users\IET\Desktop\DOT_NET\MySerialD\bin\Debug\MySerialD.pdb
+C:\Users\IET\Desktop\DOT_NET\MySerialD\obj\Debug\MySerialD.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\DOT_NET\MySerialD\obj\Debug\MySerialD.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DOT_NET\MySerialD\obj\Debug\MySerialD.exe
+C:\Users\IET\Desktop\DOT_NET\MySerialD\obj\Debug\MySerialD.pdb

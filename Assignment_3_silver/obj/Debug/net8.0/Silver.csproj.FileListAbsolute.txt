@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\DOT_NET\Assignment_3_silver\bin\Debug\net8.0\Silver.exe
+C:\Users\IET\Desktop\DOT_NET\Assignment_3_silver\bin\Debug\net8.0\Silver.deps.json
+C:\Users\IET\Desktop\DOT_NET\Assignment_3_silver\bin\Debug\net8.0\Silver.runtimeconfig.json
+C:\Users\IET\Desktop\DOT_NET\Assignment_3_silver\bin\Debug\net8.0\Silver.dll
+C:\Users\IET\Desktop\DOT_NET\Assignment_3_silver\bin\Debug\net8.0\Silver.pdb
+C:\Users\IET\Desktop\DOT_NET\Assignment_3_silver\obj\Debug\net8.0\Silver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\DOT_NET\Assignment_3_silver\obj\Debug\net8.0\Silver.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\DOT_NET\Assignment_3_silver\obj\Debug\net8.0\Silver.AssemblyInfo.cs
+C:\Users\IET\Desktop\DOT_NET\Assignment_3_silver\obj\Debug\net8.0\Silver.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DOT_NET\Assignment_3_silver\obj\Debug\net8.0\Silver.dll
+C:\Users\IET\Desktop\DOT_NET\Assignment_3_silver\obj\Debug\net8.0\refint\Silver.dll
+C:\Users\IET\Desktop\DOT_NET\Assignment_3_silver\obj\Debug\net8.0\Silver.pdb
+C:\Users\IET\Desktop\DOT_NET\Assignment_3_silver\obj\Debug\net8.0\Silver.genruntimeconfig.cache
+C:\Users\IET\Desktop\DOT_NET\Assignment_3_silver\obj\Debug\net8.0\ref\Silver.dll

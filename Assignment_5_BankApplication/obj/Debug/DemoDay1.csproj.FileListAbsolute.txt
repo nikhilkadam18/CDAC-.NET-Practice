@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\DOT_NET\DemoDay1\bin\Debug\DemoDay1.exe.config
+C:\Users\IET\Desktop\DOT_NET\DemoDay1\bin\Debug\DemoDay1.exe
+C:\Users\IET\Desktop\DOT_NET\DemoDay1\bin\Debug\DemoDay1.pdb
+C:\Users\IET\Desktop\DOT_NET\DemoDay1\obj\Debug\DemoDay1.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\DOT_NET\DemoDay1\obj\Debug\DemoDay1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DOT_NET\DemoDay1\obj\Debug\DemoDay1.exe
+C:\Users\IET\Desktop\DOT_NET\DemoDay1\obj\Debug\DemoDay1.pdb
+C:\Users\IET\Desktop\DOT_NET\BankApplication\obj\Debug\DemoDay1.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\DOT_NET\BankApplication\obj\Debug\DemoDay1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DOT_NET\BankApplication\obj\Debug\DemoDay1.exe
+C:\Users\IET\Desktop\DOT_NET\BankApplication\obj\Debug\DemoDay1.pdb
+C:\Users\IET\Desktop\DOT_NET\BankApplication\bin\Debug\DemoDay1.exe.config
+C:\Users\IET\Desktop\DOT_NET\BankApplication\bin\Debug\DemoDay1.exe
+C:\Users\IET\Desktop\DOT_NET\BankApplication\bin\Debug\DemoDay1.pdb
